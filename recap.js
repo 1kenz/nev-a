@@ -21,10 +21,26 @@
 
 // CONDITIONALS
 
-var note = 51;
+// var note = 51;
 
-if (note >= 50) {
-    console.log('Geçtiniz');
-} else if (note >= 40) {
-    console.log('Bütünleme');
-} else console.log('Kaldınız');
+// if (note >= 50) {
+//     console.log('Geçtiniz');
+// } else if (note >= 40) {
+//     console.log('Bütünleme');
+// } else console.log('Kaldınız');
+
+// en büyüğü bulma
+
+// var number1 = 155;
+// var number2 = 322;
+// var number3 = 15;
+
+// var biggestNumber = number1;
+
+// if (biggestNumber < number2) {
+//     biggestNumber = number2;
+// } else if (biggestNumber < number3) {
+//     biggestNumber = number3;
+// }
+
+// console.log('Biggest Number is ' + biggestNumber);
